@@ -32,10 +32,9 @@ This project dynamically displays the **current local time** of the user based o
 
 │── README.md # Project documentation
 
-pgsql
-Copy code
-
 ---
+
+- Visit [Your-Local-Time](https://ranjeetkumar228.github.io/Show-local-time-project/)
 
 ## ⚡ How It Works
 - JavaScript’s built-in **Date() object** is used to fetch system time.  
