@@ -23,9 +23,13 @@ This project dynamically displays the **current local time** of the user based o
 
 ## 📂 Project Structure
 /local-time-project
+
 │── index.html # Main HTML file
+
 │── style.css # CSS styles
+
 │── script.js # JavaScript logic
+
 │── README.md # Project documentation
 
 pgsql
